@@ -9,7 +9,6 @@ using namespace std;
 class Students{
 
 public:
-
     string name;
 
     void introduce()
@@ -17,8 +16,6 @@ public:
         cout << "Hello I am " << name << endl;
     }
 };
-
-
 
 int main(){
 
