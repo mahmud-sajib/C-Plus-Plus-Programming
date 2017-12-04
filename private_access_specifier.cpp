@@ -1,7 +1,6 @@
 /*
-  Working with private access specifier
+  We have to access the Private Properties through Public Methods in order to Work with Private Properties
 */
-
 
 #include <iostream>
 using namespace std;
