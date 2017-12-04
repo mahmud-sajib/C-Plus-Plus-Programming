@@ -7,7 +7,7 @@
 using namespace std;
 
 class Students{
-
+  
 public:
     string name;
 
@@ -15,6 +15,7 @@ public:
     {
         cout << "Hello I am " << name << endl;
     }
+  
 };
 
 int main(){
