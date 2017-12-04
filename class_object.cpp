@@ -1,5 +1,5 @@
 /*
- Creating a basic class and an object
+  Creating a basic class and an object
 */
 
 #include <iostream>
