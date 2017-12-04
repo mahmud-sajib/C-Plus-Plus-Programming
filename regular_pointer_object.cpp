@@ -1,11 +1,7 @@
 /*
-
-Creating object in different ways.
-
+Creating object in different ways: a) Regular b) Pointer
 1. We can use pointer to instantiate an object. The syntax is: ClassName *object = new ClassName();
-
 2. We use dot(.) operator while accessing member of a typical object, meanwhile  we use arrow(->) operator while accessing member of a pointer object
-
 */
 
 #include <iostream>
