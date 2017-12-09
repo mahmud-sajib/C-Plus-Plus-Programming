@@ -1,6 +1,6 @@
 /*
 1.The Parent class is called Base class & Child class is called Sub class
-2.We can derive sub class with this syntax: class ParentClass: public ChildClass
+2.We can derive sub class with this syntax: class ChildClass: public ParentClass
 */
 
 #include<iostream>
