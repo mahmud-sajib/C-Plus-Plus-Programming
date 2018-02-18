@@ -1,1 +1,1 @@
-A collection of OOP concepts with example using c++
+A collection of OOP features and concepts with example using c++
